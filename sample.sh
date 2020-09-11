@@ -2,4 +2,5 @@ echo " This is demo file to verify Jenkins"
 hostname
 pwd
 ifconfig
-sleep 10
+uname -a
+sleep 30
